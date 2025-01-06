@@ -1,0 +1,10 @@
+# Goal
+float32 duration
+---
+# Result
+string recorded_file
+bool motion_detected
+---
+# Feedback
+bool motion_detected
+float32 recording_time
